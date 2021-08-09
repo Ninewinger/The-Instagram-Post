@@ -1,0 +1,38 @@
+.post {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 500px;
+    margin: auto;
+}
+.negrita {
+    font-weight: bolder;
+}
+#icon {
+    font-size: 25px;
+}
+img {
+    width: 500px;
+}
+#bookmark {
+    display: flex;
+    float: right;
+}
+i {
+    font-size: 25px;
+    margin: 5px;
+}
+.post-header {
+    display: flex;
+    justify-content: space-between;
+    margin: 0%;
+}
+.post-header div {
+    margin: 0px;
+}
+.post-header p {
+    margin: 0px;
+}
+.asd {
+    display: flex;
+    margin: 0px;
+    padding: 0%;
+}
